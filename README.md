@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiranjit Singh</h1>
-<h3 align="center">A Student, Developer and Gamer.</h3>
+<h3 align="center">Nice to meet you.</h3>
 
 - 🌱 I’m currently learning **Django & Spring**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **reachchiranjit@gmail.com**
 
-- ⚡ Fun fact **I like to read about Historical Places and Figures.**
+- ⚡ Fun fact **I like to read about Historical Stuff, Finance & Stories.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
